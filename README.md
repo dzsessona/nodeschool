@@ -1,6 +1,6 @@
 # Solutions to [nodeschool.io] courses
 
-## Index 
+## Index
 
 | Course | Description |
 | -----  | ----------- |
@@ -11,7 +11,9 @@
 | [scope-chains-closures]  | block and lexical scope, closures garbage collector |
 | [how-to-electron]        | introduction to electron |
 | [stream-adventure]       | transform, websockets, streams etc. |
+| [functional-javascript]  | functional stuff |
 
+[functional-javascript]: https://github.com/dzsessona/nodeschool/tree/master/functional-javascript
 [stream-adventure]: https://github.com/dzsessona/nodeschool/tree/master/stream-adventure
 [javascripting]: https://github.com/dzsessona/nodeschool/tree/master/javascripting
 [how-to-npm]: https://github.com/dzsessona/nodeschool/tree/master/howtonpm
