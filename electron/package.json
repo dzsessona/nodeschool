@@ -1,0 +1,15 @@
+{
+  "name": "electron-nodeschool",
+  "version": "1.0.0",
+  "description": "test for electron",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "diego.sessona@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "cat-picture": "^5.1.2",
+    "lightning-image-poly": "0.0.10"
+  }
+}
