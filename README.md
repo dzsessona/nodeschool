@@ -1,4 +1,4 @@
-# Solutions to nodeschool courses
+# Solutions to [nodeschool.io] courses
 
 ## Index 
 
@@ -17,3 +17,4 @@
 [how-to-electron]: https://github.com/dzsessona/nodeschool/tree/master/electron
 [how-to-markdown]: https://github.com/dzsessona/nodeschool/tree/master/howtomarkdown
 [learnyounode]: https://github.com/dzsessona/nodeschool/tree/master/learyounode
+[nodeschool.io]: http://nodeschool.io/
